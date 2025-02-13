@@ -6,7 +6,14 @@ namespace GitTest._1
 	{
 		static void Main(string[] args)
 		{
-			int num = int.Parse(Console.ReadLine());
+			try
+			{
+				int num = int.Parse(Console.ReadLine());
+			}
+			catch (Exception ex)
+			{
+				Console.WriteLine(ex.Message);
+			}
 
 			Console.WriteLine("C#");
 		}
