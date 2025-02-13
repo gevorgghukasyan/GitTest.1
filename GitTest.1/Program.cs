@@ -10,7 +10,7 @@ namespace GitTest._1
 	{
 		static void Main(string[] args)
 		{
-			Hayk newUser = new Hayk("Hayk", "Grigoryan");
+			Hayk newUser = new Hayk("Aram", "Grigoryan");
 			newUser.Print();
 		}
 	}
