@@ -8,5 +8,9 @@ namespace GitTest._1
 {
     internal class Vache
     {
+        public void Show()
+        {
+            Console.WriteLine("Hello");
+        }
     }
 }
