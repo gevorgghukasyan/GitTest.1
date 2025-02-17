@@ -6,6 +6,8 @@ namespace GitTest._1
 	{
 		static void Main(string[] args)
 		{
+			Hayk newUser = new Hayk("Aram", "Grigoryan");
+			newUser.Print();
 			try
 			{
 				int num = int.Parse(Console.ReadLine());
