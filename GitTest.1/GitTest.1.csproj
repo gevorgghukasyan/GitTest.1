@@ -43,9 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
+    <Compile Include="Hayk-Task1.cs" />
+=======
     <Compile Include="TaskElen.cs" />
     <Compile Include="Elen.cs" />
     <Compile Include="Hayk.cs" />
+>>>>>>> develop
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TaskElen2.cs" />
