@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="TaskElen.cs" />
     <Compile Include="Elen.cs" />
     <Compile Include="Hayk.cs" />
     <Compile Include="Program.cs" />
