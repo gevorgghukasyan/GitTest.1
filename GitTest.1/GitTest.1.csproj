@@ -47,6 +47,8 @@
     <Compile Include="Hayk.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TaskVahe2.cs" />
+    <Compile Include="VaheHomework.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
