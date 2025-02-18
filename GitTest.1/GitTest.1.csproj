@@ -49,6 +49,7 @@
     <Compile Include="Elen.cs" />
     <Compile Include="Hayk.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="TaskDavid1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TaskElen2.cs" />
     <Compile Include="TaskElen3.cs" />
